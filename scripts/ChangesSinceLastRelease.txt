@@ -397,3 +397,5 @@ Windows.Win32.Networking.WinSock.Apis.WSAID_WSASENDMSG added
 Windows.Win32.Security.Cryptography.UI.Apis.CERT_CERTIFICATE_ACTION_VERIFY added
 Windows.Win32.System.Performance.Apis.PERF_AGGREGATE_MAX removed
 Windows.Win32.System.Performance.PERF_COUNTER_AGGREGATE_FUNC.PERF_AGGREGATE_MAX added
+# Add missing NotifyIcon notification constant
+Windows.Win32.UI.Shell.Apis.NIN_KEYSELECT added
