@@ -415,3 +415,5 @@ Windows.Win32.UI.Shell.NOTIFYICONDATAA.dwStateMask(X64, Arm64)...System.UInt32 =
 Windows.Win32.UI.Shell.NOTIFYICONDATAA.dwStateMask(X86)...System.UInt32 => Windows.Win32.UI.Shell.NOTIFY_ICON_STATE
 Windows.Win32.UI.Shell.NOTIFYICONDATAW.dwStateMask(X64, Arm64)...System.UInt32 => Windows.Win32.UI.Shell.NOTIFY_ICON_STATE
 Windows.Win32.UI.Shell.NOTIFYICONDATAW.dwStateMask(X86)...System.UInt32 => Windows.Win32.UI.Shell.NOTIFY_ICON_STATE
+# Correct NIN flag type
+Windows.Win32.UI.Shell.Apis.NINF_KEY...System.UInt32 => System.Int32
